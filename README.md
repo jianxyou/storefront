@@ -1,7 +1,7 @@
 # storefront
 
 
-A django backend-project, practiced APis development, and some advanced APi concepts.
+A django backend-project, practiced Apis development, and some advanced Api concepts.
 
  RESTful Apis
 
